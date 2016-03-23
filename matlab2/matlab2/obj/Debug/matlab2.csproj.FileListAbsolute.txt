@@ -1,1 +1,11 @@
 C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\bin\Debug\matlab2.exe.config
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\bin\Debug\matlab2.exe
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\bin\Debug\matlab2.pdb
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\bin\Debug\MWArray.dll
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\Interop.MLApp.dll
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.csproj.ResolveComReference.cache
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.Form1.resources
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.Properties.Resources.resources
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.exe
+C:\Users\ASUS-PC\Documents\GitHub\matlab2\matlab2\matlab2\obj\Debug\matlab2.pdb
